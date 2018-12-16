@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+
+<frameset rows="16%,*">
+<frame src="search.html">
+  <frame src="response.html">
+</frameset>
+
+</html>
